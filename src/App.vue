@@ -320,7 +320,9 @@ body {
 
     .info-section {
       width: 100% !important;
-      // margin: 0 auto !important;
+      &:first-child {
+        margin-bottom: 50px !important;
+      }
     }
   }
 }
@@ -344,7 +346,7 @@ body {
     justify-content: center;
     align-items: center;
     width: 50%;
-    max-width: 85vw;
+    max-width: 90vw;
     padding: 0 20px;
 
     .info-title {
@@ -436,12 +438,13 @@ body {
   }
 
   #hero-subsubtitle {
+    max-width: 90vw;
     opacity: 0.6;
     font-size: 2em;
     font-style: italic;
     opacity: 0.5;
     color: #666;
-    margin: 40px 0 60px 0;
+    margin: 40px auto 60px auto;
 
     animation: fadeIn 0.5s ease-out forwards;
   }
