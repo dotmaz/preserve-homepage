@@ -1,3 +1,4 @@
 # Preserve.js landing page.
 
-https://preservejs.vercel.app/
+Homepage: https://preservejs.vercel.app/
+Library: https://github.com/dotmaz/preservejs
