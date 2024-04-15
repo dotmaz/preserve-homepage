@@ -9,7 +9,7 @@ export default {
     return {
       buttonText: "📄 Copy",
       copyText:
-        '<script src="https://cdn.jsdelivr.net/gh/dotmaz/preservejs@main/preserve.js"><' +
+        '<script src="https://cdn.jsdelivr.net/gh/dotmaz/preservejs@latest/preserve.js"><' +
         "/" +
         "script>",
     };

@@ -98,7 +98,7 @@
         <div class="code-section">
           &lt;<span class="pink">script</span><br />
           <span class="blue">src</span>="<span class="brown"
-            >https://cdn.jsdelivr.net/gh/dotmaz/preservejs@main/preserve.js</span
+            >https://cdn.jsdelivr.net/gh/dotmaz/preservejs@latest/preserve.js</span
           >"&gt;
           <br />
           &lt;/<span class="pink">script</span>&gt;
